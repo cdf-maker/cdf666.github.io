@@ -2,7 +2,7 @@
 wowwow
 <html>
 
-<body background="/i/eg_background.jpg">
+<body style="background-color:PowderBlue;">
 <h1>蔡德方wow的主页</h1>
 
 <a href="https://cdf666.github.io/#welcome-to-github-pages">
